@@ -1,0 +1,8 @@
+.gradle/5.4.1/
+.idea/
+gradle/wrapper/
+build.gradle
+fullstack__flutter__signal__chat.iml
+gradlew
+gradlew.bat
+local.properties
